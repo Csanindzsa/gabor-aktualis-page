@@ -1,0 +1,1 @@
+itt taláéhatóak a versenyzőink.
