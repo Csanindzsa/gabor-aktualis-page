@@ -1,6 +1,6 @@
 
 {nev: "Elter"}
-{kep:"elter.png"}
+{kep:"elter_xm5tc2.png.png"}
 
 {nev: "Bringaland"}
 {kep:"bringaland.png"}
