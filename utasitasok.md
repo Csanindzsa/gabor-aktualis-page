@@ -19,3 +19,7 @@ Versenyzőink formátuma:
 Tamogatóink formátuma:
 {nev: "Elter"}
 {kep:"fájlnév.png"}
+{link:""}
+
+Új oldal hozzáadása:
+- [Oldal címe](ujoldal1.md)
