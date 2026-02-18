@@ -1,6 +1,4 @@
-teszt szöveg
 
-# Teszt címsor
+# Aktuális oldal
 
-Teszt kép:
-{image:"caribbean-flamingo-01-01_kp8l14"}
+Ez az oldal jelenleg frissítés alatt áll. Kérjük, látogasson vissza később!

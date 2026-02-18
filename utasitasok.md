@@ -23,3 +23,5 @@ Tamogatóink formátuma:
 
 Új oldal hozzáadása:
 - [Oldal címe](ujoldal1.md)
+
+A szponzorokat és a támogatókat simán enterrel válaszd el. 
