@@ -1,4 +1,1 @@
-
-
-
-
+- [Áttétel szabály](attetelszabaly.md)
