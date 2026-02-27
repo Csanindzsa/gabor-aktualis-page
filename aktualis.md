@@ -1,4 +1,3 @@
 
 # Aktuális oldal
 
-Edzőtábor lesz
