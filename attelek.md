@@ -1,1 +1,1 @@
-Áttételszabályok
+# Áttételszabályok
