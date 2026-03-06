@@ -1,1 +1,1 @@
-- [Áttétel szabály](attelek.md)
+
